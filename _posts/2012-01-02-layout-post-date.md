@@ -1,5 +1,12 @@
 ---
 title: "Layout: Post Date Enabled"
+categories: [Personal, Professional]
+header: 
+ teaser: https://i.blogs.es/b79f6d/buffy1/450_1000.jpg
+toc: true
+# toc_label: "Unique Title"
+toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
+toc_sticky: true
 ---
 
 This post has post date enabled. The date the post was published should show if `show_date: true` is added to it's YAML Front Matter or as a default in `_config.yml`.
