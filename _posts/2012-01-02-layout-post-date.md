@@ -1,6 +1,8 @@
 ---
 title: "Layout: Post Date Enabled"
-categories: [Personal, Professional]
+categories: 
+  - una
+  - otra
 header: 
  teaser: https://i.blogs.es/b79f6d/buffy1/450_1000.jpg
 toc: true
