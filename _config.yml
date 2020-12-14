@@ -101,23 +101,23 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:your.name@email.com"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/"
 
 # Site Footer
 footer:
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      # url:
+      url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url:
 
 
 # Reading Files
