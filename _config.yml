@@ -114,10 +114,10 @@ footer:
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url:
+      url: "http://asldfk.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url:
+      url: "http://asldfk.com"
 
 
 # Reading Files
