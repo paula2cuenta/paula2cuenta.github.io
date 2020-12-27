@@ -4,6 +4,8 @@ permalink: /portfolio/
 layout: single
 author_profile: true
 toc: true
+toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
+toc_sticky: true
 ---
 
 # Uno
